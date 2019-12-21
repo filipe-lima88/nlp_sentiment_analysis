@@ -3,15 +3,15 @@ Esse conjunto de dados foi fornecido generosamente pela Olist, a maior loja de d
 
 Depois que um cliente compra o produto na Olist Store, um vendedor é notificado para atender a esse pedido. Depois que o cliente recebe o produto ou a data estimada de entrega é vencida, ele recebe uma pesquisa de satisfação por e-mail, onde pode anotar a experiência de compra e anotar alguns comentários.
 
-# Atenção
-Um pedido pode ter vários itens.
-Cada item pode ser atendido por um vendedor distinto.
-Todo o texto que identifica lojas e parceiros foi substituído pelos nomes das grandes casas de Game of Thrones.
+### Atenção
+- Um pedido pode ter vários itens.
+- Cada item pode ser atendido por um vendedor distinto.
+- Todo o texto que identifica lojas e parceiros foi substituído pelos nomes das grandes casas de Game of Thrones.
 
-# Protótipo de software
+### Protótipo de software
 Etapas do desenvolvimento: (1) acesso e tratamento de dados; (2) representação de dados e modelagem; (2) apresentação dos resultados. Conterá seguintes tarefas de PLN:
 
-● Normalização de texto
-● Rotulação de partes da fala
-● Reconhecimento de entidades nomeadas
-● Exploração de mais de um modelo de representação de texto, a saber, um dos modelos vetoriais e média de vetores de palavras
+- Normalização de texto
+- Rotulação de partes da fala
+- Reconhecimento de entidades nomeadas
+- Exploração de mais de um modelo de representação de texto, a saber, um dos modelos vetoriais e média de vetores de palavras
