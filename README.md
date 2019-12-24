@@ -16,5 +16,5 @@ Etapas do desenvolvimento: (1) acesso e tratamento de dados; (2) representação
 - Reconhecimento de entidades nomeadas
 - Exploração de mais de um modelo de representação de texto, a saber, um dos modelos vetoriais e média de vetores de palavras
 
-Código: [nlp_sentiment_analysis/nlp_sa_jupyter.ipynb](https://github.com/renholds/nlp_sentiment_analysis/blob/master/nlp_sa_jupyter.ipynb)
-Dataset: [nlp_sentiment_analysis/olist_order_reviews_dataset.csv (https://github.com/renholds/nlp_sentiment_analysis/blob/master/olist_order_reviews_dataset.csv)
+* Código: [nlp_sentiment_analysis/nlp_sa_jupyter.ipynb](https://github.com/renholds/nlp_sentiment_analysis/blob/master/nlp_sa_jupyter.ipynb)
+* Dataset: [nlp_sentiment_analysis/olist_order_reviews_dataset.csv](https://github.com/renholds/nlp_sentiment_analysis/blob/master/olist_order_reviews_dataset.csv)
